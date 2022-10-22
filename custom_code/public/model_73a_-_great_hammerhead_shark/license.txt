@@ -1,0 +1,11 @@
+Model Information:
+* title:	Model 73A - Great Hammerhead Shark
+* source:	https://sketchfab.com/3d-models/model-73a-great-hammerhead-shark-77d52f2b0e084fe7bcefbc86b920f080
+* author:	DigitalLife3D (https://sketchfab.com/DigitalLife3D)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Model 73A - Great Hammerhead Shark" (https://sketchfab.com/3d-models/model-73a-great-hammerhead-shark-77d52f2b0e084fe7bcefbc86b920f080) by DigitalLife3D (https://sketchfab.com/DigitalLife3D) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

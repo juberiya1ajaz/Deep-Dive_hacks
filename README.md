@@ -23,7 +23,7 @@ Our web app "APP NAME" is built with features:
 
 I have to use Velo by Wix to create a website. With Wix Velo, a full-stack development platform, you can create a website without knowing any code. It is a fantastic tool for both experienced developers who want to construct a website quickly and newbies who want to learn how to code. I am using the following features of Velo by Wix:
 
-- **Wix Code**: Helps to add some custom code for implementing Azure API backend for the **Days to decompose** page.
+- **Wix Code**: Helps to add some custom code for implementing backend and AR for the page.
 - **Wix Data**: It may be used to both save data in a database and retrieve data from one.
 - **Wix Stores**: We may use it to build the store and integrate it with the website.
 - **Wix SEO**: I'm using Wix SEO to give the website SEO capability, and we can also use it to give the store SEO functionality.

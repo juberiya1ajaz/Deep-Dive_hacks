@@ -1,0 +1,11 @@
+Model Information:
+* title:	humpback whale - animation test
+* source:	https://sketchfab.com/3d-models/humpback-whale-animation-test-a048c7bce1aa4106abe94547c88f7bc5
+* author:	lolilith (https://sketchfab.com/lolilith)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "humpback whale - animation test" (https://sketchfab.com/3d-models/humpback-whale-animation-test-a048c7bce1aa4106abe94547c88f7bc5) by lolilith (https://sketchfab.com/lolilith) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tiger Shark
+* source:	https://sketchfab.com/3d-models/tiger-shark-8a19770317984b4a9628934acd587a67
+* author:	cebraVFX (https://sketchfab.com/intervirtual)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tiger Shark" (https://sketchfab.com/3d-models/tiger-shark-8a19770317984b4a9628934acd587a67) by cebraVFX (https://sketchfab.com/intervirtual) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
