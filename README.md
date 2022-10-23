@@ -26,7 +26,7 @@ We have to build a site where people can not only know about the sea animals but
 
 ## 💻 What it does
 
-Our web app "APP NAME" is built with features:
+Our web app DeepSeaSider is built with features:
 
 - Learn about various clean-up drives and register to volunteer in them.
 - Read blogs about the importance of keeping seas clean and buying items in our store to support the cause.
@@ -73,7 +73,7 @@ I am using Microsoft Azure to train my ML model to find out the specie of animal
 - Managing and handling the backend for Wix.
 - How to use Three Js with Wix Code.
 
-## 🚀 What's next for APP NAME
+## 🚀 What's next for DeepSeaSider
 
 - Building a mobile app.
 - Creating my ML model.
