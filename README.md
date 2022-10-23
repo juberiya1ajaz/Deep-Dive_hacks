@@ -1,24 +1,4 @@
-# APP NAME
-
-## Temp
-- https://editor.wix.com/html/editor/web/renderer/edit/28fd9b38-7449-4da4-820c-7c8a32dcbca2?metaSiteId=86630d70-c016-4411-b47f-a9a5eaaf313b
-
-- https://harshalraikwar07.wixsite.com/deepseasider
-
-- Great White Shark
-    - https://go.echo3d.co/sT6n
-- Dotted White Seal
-    - https://go.echo3d.co/Y1Mm
-- Tiger Shark
-    - https://go.echo3d.co/WkCq
-- Carrabian Reef Shark
-    - https://go.echo3d.co/y1Cu
-- Great Hammerhead Shark
-    - https://go.echo3d.co/o56v
-- Humpback Whale
-    - https://go.echo3d.co/2d4y
-- Juvenile_leatherback Sea Turtle
-    - https://go.echo3d.co/RPuu
+# DeepSeaSider
 
 ## 💡 Inspiration
 

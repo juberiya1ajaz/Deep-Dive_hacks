@@ -1,4 +1,4 @@
-import Head from 'next/head'
+import Head from 'next/head';
 import Link from "next/link";
 import Image from "next/image";
 
@@ -11,9 +11,89 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <div className="bg-red-500">
-        Hello
+      <div className="">
+        <div className="grid w-full py-10 place-items-center">
+          <h1 className="pb-2 text-5xl text-center font-semibold tracking-wide lg:text-6xl">
+            Sea Animals
+          </h1>
+          <div className="inline-flex h-1 bg-indigo-500 rounded-full w-72"></div>
+        </div>
       </div>
+
+      <div className='flex flex-wrap flex-col-2 justify-around w-full px-16'>
+
+        <Link href="/humpbackWhale" passHref>
+          <div className="m-8">
+            <div className="w-72 h-72 cursor-pointer transition duration-500 transform hover:scale-105">
+              <div className="pb-8 border-4  border-secondary rounded-lg">
+                <Image width="700" height="420" src="/humpback whale.png" alt="" className="rounded-t-md" /></div>
+              <div className="grid -mt-9 place-content-center mx-1 text-xl">Humpback Whale</div>
+            </div>
+          </div>
+        </Link>
+
+        <Link href="/dottedWhiteSeal" passHref>
+          <div className="m-8">
+            <div className="w-72 h-72 cursor-pointer transition duration-500 transform hover:scale-105">
+              <div className="pb-8 border-4  border-secondary rounded-lg">
+                <Image width="700" height="420" src="/Dotted White Seal.jpg" alt="" className="rounded-t-md" /></div>
+              <div className="grid -mt-9 place-content-center mx-1 text-xl">Dotted White Seal</div>
+            </div>
+          </div>
+        </Link>
+
+        <Link href="/juvenileLeatherbackSeaTurtle" passHref>
+          <div className="m-8">
+            <div className="w-72 h-72 cursor-pointer transition duration-500 transform hover:scale-105">
+              <div className="pb-14 border-4  border-secondary rounded-lg">
+                <Image width="700" height="420" src="/Juvenile Leatherback Sea Turtle.png" alt="" className="rounded-t-md" /></div>
+              <div className="grid -mt-16 place-content-center mx-1 text-xl text-center">Juvenile Leatherback Sea Turtle</div>
+            </div>
+          </div>
+        </Link>
+
+        {/* <Link href="/greatWhiteShark" passHref>
+          <div className="m-8">
+            <div className="w-72 h-72 cursor-pointer transition duration-500 transform hover:scale-105">
+              <div className="pb-8 border-4  border-secondary rounded-lg">
+                <Image width="700" height="420" src="/Great White Shark.jpg" alt="" className="rounded-t-md" /></div>
+              <div className="grid -mt-9 place-content-center mx-1 text-xl">Great White Shark</div>
+            </div>
+          </div>
+        </Link> */}
+
+        <Link href="/caribbeanReefShark" passHref>
+          <div className="m-8">
+            <div className="w-72 h-72 cursor-pointer transition duration-500 transform hover:scale-105">
+              <div className="pb-8 border-4  border-secondary rounded-lg">
+                <Image width="700" height="420" src="/Caribbean Reef Shark.jpg" alt="" className="rounded-t-md" /></div>
+              <div className="grid -mt-9 place-content-center mx-1 text-xl">Caribbean Reef Shark</div>
+            </div>
+          </div>
+        </Link>
+
+        <Link href="/greatHammerheadShark" passHref>
+          <div className="m-8">
+            <div className="w-72 h-72 cursor-pointer transition duration-500 transform hover:scale-105">
+              <div className="pb-16 border-4  border-secondary rounded-lg">
+                <Image width="700" height="420" src="/Great Hammerhead Shark.jpg" alt="" className="rounded-t-md" /></div>
+              <div className="grid -mt-16 place-content-center mx-1 text-xl text-center">Great Hammerhead Shark</div>
+            </div>
+          </div>
+        </Link>
+
+        {/* <Link href="/tigerShark" passHref>
+          <div className="m-8">
+            <div className="w-72 h-72 cursor-pointer transition duration-500 transform hover:scale-105">
+              <div className="pb-8 border-4  border-secondary rounded-lg">
+                <Image width="700" height="420" src="/Tiger Shark.jpg" alt="" className="rounded-t-md" /></div>
+              <div className="grid -mt-9 place-content-center mx-1 text-xl">Tiger Shark</div>
+            </div>
+          </div>
+        </Link> */}
+
+      </div>
+
     </div>
   )
 }
