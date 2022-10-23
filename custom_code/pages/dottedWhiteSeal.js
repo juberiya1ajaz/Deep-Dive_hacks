@@ -80,7 +80,7 @@ export default function dottedWhiteSeal() {
           Dotted White Seal
         </h1>
         <div className="inline-flex mt-2 h-1 bg-secondary rounded-full w-96"></div>
-        <p className="text-justify text-xl w-86 mt-2 mx-4 md:mx-44">The spotted seal (Phoca largha), also known as the larga seal or largha seal, is a member of the family Phocidae, and is considered a "true seal". It inhabits ice floes and waters of the north Pacific Ocean and adjacent seas. It is primarily found along the continental shelf of the Beaufort, Chukchi, Bering and Okhotsk Seas and south to the northern Yellow Sea and it migrates south as far as northern Huanghai and the western Sea of Japan. It is also found in Alaska from the southeastern Bristol Bay to Demarcation Point during the ice-free seasons of summer and autumn when spotted seals mate and have pups.</p>
+        <p className="text-justify text-xl w-86 mt-2 mx-4 md:mx-44">The spotted seal (Phoca largha), also known as the larga seal or largha seal, is a member of the family Phocidae, and is considered a &quot;true seal&quot;. It inhabits ice floes and waters of the north Pacific Ocean and adjacent seas. It is primarily found along the continental shelf of the Beaufort, Chukchi, Bering and Okhotsk Seas and south to the northern Yellow Sea and it migrates south as far as northern Huanghai and the western Sea of Japan. It is also found in Alaska from the southeastern Bristol Bay to Demarcation Point during the ice-free seasons of summer and autumn when spotted seals mate and have pups.</p>
       </div>
 
       <div className="md:grid md:grid-cols-3 md:pr-15 pr-1">

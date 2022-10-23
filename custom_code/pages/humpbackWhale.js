@@ -73,7 +73,7 @@ export default function humpBack() {
           Humpback whale
         </h1>
         <div className="inline-flex mt-2 h-1 bg-secondary rounded-full w-96"></div>
-        <p className="text-justify text-xl w-86 mt-2 mx-4 md:mx-44">The humpback whale (Megaptera novaeangliae) is a species of baleen whale. It is one of the larger rorqual species, with adults ranging in length from 12–16 m (39–52 ft) and weighing around 25–30 t (28–33 short tons). The humpback has a distinctive body shape, with long pectoral fins and a knobbly head. It is known for breaching and other distinctive surface behaviors, making it popular with whale watchers. This work is based on "Humpback whale" (https://sketchfab.com/3d-models/humpback-whale-2a83b52bfe7f47a1b6c404a90b100dca) by AVINAS (https://sketchfab.com/AVINAS) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)</p>
+        <p className="text-justify text-xl w-86 mt-2 mx-4 md:mx-44">The humpback whale (Megaptera novaeangliae) is a species of baleen whale. It is one of the larger rorqual species, with adults ranging in length from 12–16 m (39–52 ft) and weighing around 25–30 t (28–33 short tons). The humpback has a distinctive body shape, with long pectoral fins and a knobbly head. It is known for breaching and other distinctive surface behaviors, making it popular with whale watchers. This work is based on &quot;Humpback whale&quot; (https://sketchfab.com/3d-models/humpback-whale-2a83b52bfe7f47a1b6c404a90b100dca) by AVINAS (https://sketchfab.com/AVINAS) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)</p>
       </div>
 
       <div className="md:grid md:grid-cols-3 md:pr-15 pr-1">
